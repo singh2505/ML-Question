@@ -3,11 +3,7 @@ Dataset: https://drive.google.com/file/d/1q6KVw4LD_rnXKVViVkBpdTyedHdQvtkk/view?
 Instructions for Submission:
 1. Open the problem description.pdf file and try to solve any one of the problems given.
 
-2. Create a New Repository from the Template: https://github.com/abhincho/ML-Question.git
-
-    1. Go to the template repository URL provided
-    2. Click on the "Use this template" button to create a new repository based on this template.
-    3. Make sure to set the new repository to private to ensure no one else can see your solution.
+2. Fork Repository from the repo: https://github.com/abhincho/ML-Question.git
 
 3. Clone repository to your local machine using:
 
@@ -23,7 +19,7 @@ Instructions for Submission:
 
 6. Grant Access:
 
-    1. Go to the settings of your new private repository.
+    1. Go to the settings of your new repository.
     2. Under "Manage access", invite https://github.com/abhincho
 
 
