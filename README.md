@@ -4,7 +4,7 @@ Instructions for Submission:
 1. Open the problem description and try to solve any one of the problems given.
 
 2. Clone the Repository:
-    Clone your forked repository to your local machine using:
+    Clone repository to your local machine using:
     git clone https://github.com/abhincho/ML-Question.git
 
 3. Create a Branch:
