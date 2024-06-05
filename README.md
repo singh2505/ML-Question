@@ -12,21 +12,20 @@ Instructions for Submission:
     cd repository-name
 
 4. Create a new branch for your solution:
-    git checkout -b <unique_name>
-    use your name and mobile number of DOB to create it
+    
+    a. git checkout -b <unique_name> (Use your name and mobile number or DOB to create it)
 
 5. Solve the Problem:
-    Make the necessary changes to solve the problem.
-    Commit and Push:
-    Add and commit your changes:
-    git add .
-    git commit -m "Solved the problem"
+    1. Make the necessary changes to solve the problem.
+    2. Add and commit your changes:
+        1. git add .
+        2. git commit -m "Solved the problem"
 
 6. Push your branch to your forked repository:
-    git push origin solution-branch
+    git push origin <unique_name> 
 
 7. Submit:
-Inform you once they have pushed their solution branch.
+Inform you once they have pushed the solution branch.
 
 You will need to submit the following items:
 1.	Ipython notebook or python script 
