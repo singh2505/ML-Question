@@ -1,6 +1,6 @@
 Dataset: https://drive.google.com/file/d/1q6KVw4LD_rnXKVViVkBpdTyedHdQvtkk/view?usp=sharing
 
-Intructions for Submission:
+Instructions for Submission:
 1. Open the problem description and try to solve any one of the problems given.
 
 2. Clone the Repository:
@@ -12,7 +12,8 @@ Intructions for Submission:
     cd repository-name
 
 4. Create a new branch for your solution:
-    git checkout -b solution-branch
+    git checkout -b <unique_name>
+    use your name and mobile number of DOB to create it
 
 5. Solve the Problem:
     Make the necessary changes to solve the problem.
