@@ -1,8 +1,9 @@
 Dataset: https://drive.google.com/file/d/1q6KVw4LD_rnXKVViVkBpdTyedHdQvtkk/view?usp=sharing
+To be used to the solve the problem described in the Problem Description.pdf file
 
 Instructions for Submission:
 
-1. Open the problem description and try to solve any one of the problems given.
+1. Open the problem description (PDF file) and try to solve any one of the problems given.
 
 2. Clone the Repository: Clone the repository to your local machine using: 
     1. git clone https://github.com/abhincho/ML-Question.git
