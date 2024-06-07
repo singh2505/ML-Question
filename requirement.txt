@@ -1,0 +1,6 @@
+nltk
+requests
+scikit-learn
+numpy
+langchain
+tqdm
